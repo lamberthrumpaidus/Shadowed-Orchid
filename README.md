@@ -95,8 +95,3 @@ Shadowed Orchid/
 ## Kontribusi
 
 Saya terbuka untuk umpan balik dan saran. Jika Anda memiliki ide untuk meningkatkan tema ini atau menemukan bug, jangan ragu untuk membuka isu di [GitHub](https://github.com/lamberthrumpaidus).
-
-Terima kasih telah memilih **Shadowed Orchid**! Nikmati setiap detik musik Anda dengan suasana yang baru dan menyenangkan.
-```
-
-Gantilah `link-ke-file-zip` dengan URL aktual dari file ZIP yang Anda unggah ke repositori. Jika ada yang ingin Anda tambahkan atau ubah, beri tahu saya!
